@@ -21,7 +21,7 @@ body {
 }
 
 
-/* globales */
+/* GLOBALES */
 .contenedor {
     max-width: 120rem;
     width: 90%;
@@ -49,7 +49,7 @@ img {
     max-width: 100%;
 }
 
-/* Utilidades */
+/* UTILIDADES */
 .no-margin {
     margin: 0;
 }
@@ -58,4 +58,13 @@ img {
 }
 .centrar-texto {
     text-align: center;
+}
+
+/* HEADER */
+.header {
+    background-image: url(../img/banner.jpg);
+    height: 60rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
